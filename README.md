@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=%20KimSangEun&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=%20Choi Yoojin&fontSize=90)
 <br/>
 <br/>
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vmkmym&show_icons=true&theme=highcontrast&hide=java,python,html)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmkmym&layout=compact&theme=synthwave&hide=java,python,html)
+![Yoojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmkmym&show_icons=true&theme=highcontrast&hide=java,python,html)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmkmym&layout=compact&theme=synthwave&hide=java,python,html)
 
 
 
