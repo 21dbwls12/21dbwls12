@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=%20ChoiYoojin&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=2DFFDD&height=300&section=header&text=%20ChoiYoojin&fontSize=90&fontColor=FFFFFF)
 <br/>
 
 ### :pencil2: STUDYING
@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 <br/>
 
 <br/>
