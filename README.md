@@ -53,7 +53,10 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoojin1117)](https://solved.ac/yoojin1117)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yoojin1117)](https://solved.ac/yoojin1117)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yoojin1117)](https://solved.ac/yoojin1117)
 
 ![Yoojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=21dbwls12&show_icons=true&theme=highcontrast&hide=html)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21dbwls12&layout=compact&theme=synthwave&hide=html)
 
