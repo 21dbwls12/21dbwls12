@@ -1,5 +1,5 @@
 <!--### Hi there 👋-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&repeat=true&&random=false&width=435&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&repeat=true&&random=false&width=435&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
 <!--
 **21dbwls12/21dbwls12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -56,6 +56,6 @@ Here are some ideas to get you started:
 
 ![Yoojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=21dbwls12&show_icons=true&theme=highcontrast&hide=html)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21dbwls12&layout=compact&theme=synthwave&hide=html)
 
-[![Yoojin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=21dbwls12&theme=react-dark)](https://github.com/21dbwls12)
+[![Yoojin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=21dbwls12&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
