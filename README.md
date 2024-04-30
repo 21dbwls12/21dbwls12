@@ -55,8 +55,6 @@ Here are some ideas to get you started:
 
 ![Yoojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=21dbwls12&show_icons=true&theme=highcontrast&hide=html)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21dbwls12&layout=compact&theme=synthwave&hide=html)
 
-[![Yoojin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=21dbwls12&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 </div>
