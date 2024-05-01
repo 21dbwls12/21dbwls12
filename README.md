@@ -61,4 +61,5 @@ Here are some ideas to get you started:
 
 </div>
 
-![도시불꺼짐](https://github.com/21dbwls12/21dbwls12/assets/139525941/62474567-9122-4e3b-8d49-03a338966874)![도시불꺼짐](https://github.com/21dbwls12/21dbwls12/assets/139525941/62474567-9122-4e3b-8d49-03a338966874)
+![도시불꺼짐가로길게](https://github.com/21dbwls12/21dbwls12/assets/139525941/ed6ca2e3-6007-4cf4-8484-0c13cd4f86d7)
+
