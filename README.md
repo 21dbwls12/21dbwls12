@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/21dbwls12/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api?username=21dbwls12&show_icons=true&theme=holi&hide_border=true" width=45%/>
+ <img src="https://github-readme-stats.vercel.app/api?username=21dbwls12&show_icons=true&theme=holi&hide_border=true" height=200 align="center"/>
 </a>
 <a href="https://github.com/21dbwls12/github-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21dbwls12&layout=compact&theme=holi&hide=html&hide_border=true" width=34% />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21dbwls12&layout=compact&theme=holi&hide=html&hide_border=true" height=200 align="center"/>
 </a>
 
 <!--
@@ -80,3 +80,5 @@ holi: {
     border_color: "85A4C0",
     bg_color: "030314",
   },
+  width=45%
+  width=34%
