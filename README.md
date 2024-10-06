@@ -67,6 +67,8 @@ Here are some ideas to get you started:
 ![Yoojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=21dbwls12&show_icons=true&theme=holi&hide=html)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21dbwls12&layout=compact&theme=holi&hide=html)
 -->
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=21dbwls12&bg_color=030314&color=5FABEE&line=5FABEE&point=D6E7FF&area_color=06439e&area=true&hide_border=true)](https://github.com/21dbwls12/github-readme-activity-graph)
+
 </div>
 
 ![도시불꺼짐가로길게](https://github.com/21dbwls12/21dbwls12/assets/139525941/ed6ca2e3-6007-4cf4-8484-0c13cd4f86d7)
@@ -84,6 +86,4 @@ holi: {
 height=200 align="center
 -->
 
-<!--
-![](./profile-3d-contrib/profile-night-rainbow.svg)
--->
+<!--![](./profile-3d-contrib/profile-night-rainbow.svg)-->
