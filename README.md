@@ -67,12 +67,11 @@ Here are some ideas to get you started:
 ![Yoojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=21dbwls12&show_icons=true&theme=holi&hide=html)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21dbwls12&layout=compact&theme=holi&hide=html)
 -->
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 </div>
 
 ![도시불꺼짐가로길게](https://github.com/21dbwls12/21dbwls12/assets/139525941/ed6ca2e3-6007-4cf4-8484-0c13cd4f86d7)
 
+<!--
 holi: {
     title_color: "5FABEE",
     text_color: "D6E7FF",
@@ -83,3 +82,8 @@ holi: {
   width=45%
   width=34%
 height=200 align="center
+-->
+
+<!--
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+-->
