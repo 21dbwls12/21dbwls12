@@ -56,7 +56,16 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-![Yoojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=21dbwls12&show_icons=true&theme=highcontrast&hide=html)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21dbwls12&layout=compact&theme=synthwave&hide=html)
+<a href="https://github.com/21dbwls12/github-readme-stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=21dbwls12&show_icons=true&theme=holi&hide_border=true" width=45%/>
+</a>
+<a href="https://github.com/21dbwls12/github-stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21dbwls12&layout=compact&theme=holi&hide=html&hide_border=true" width=34% />
+</a>
+
+<!--
+![Yoojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=21dbwls12&show_icons=true&theme=holi&hide=html)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21dbwls12&layout=compact&theme=holi&hide=html)
+-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -64,3 +73,10 @@ Here are some ideas to get you started:
 
 ![도시불꺼짐가로길게](https://github.com/21dbwls12/21dbwls12/assets/139525941/ed6ca2e3-6007-4cf4-8484-0c13cd4f86d7)
 
+holi: {
+    title_color: "5FABEE",
+    text_color: "D6E7FF",
+    icon_color: "5FABEE",
+    border_color: "85A4C0",
+    bg_color: "030314",
+  },
