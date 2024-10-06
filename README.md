@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=2DFFDD&height=300&section=header&text=%20ChoiYoojin&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=54fffd&height=200&section=header&text=%20ChoiYoojin&fontSize=50&fontColor=FFFFFF&fontAlignY=38)
 <br/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=400&color=2BF7F5&random=false&width=435&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=400&color=00e0dc&random=false&width=435&lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
 ### :pencil2: STUDYING
@@ -90,6 +90,8 @@ holi: {
   width=45%
   width=34%
 height=200 align="center
+민트색: 2DFFDD
+2BF7F5
 -->
 
 <!--![](./profile-3d-contrib/profile-night-rainbow.svg)-->
