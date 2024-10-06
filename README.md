@@ -67,7 +67,13 @@ Here are some ideas to get you started:
 ![Yoojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=21dbwls12&show_icons=true&theme=holi&hide=html)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21dbwls12&layout=compact&theme=holi&hide=html)
 -->
 
+<a href="https://github.com/21dbwls12/github-readme-activity-graph">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=21dbwls12&bg_color=030314&color=5FABEE&line=5FABEE&point=D6E7FF&area_color=06439e&area=true&hide_border=true" width=75.2%/>
+</a>
+
+<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=21dbwls12&bg_color=030314&color=5FABEE&line=5FABEE&point=D6E7FF&area_color=06439e&area=true&hide_border=true)](https://github.com/21dbwls12/github-readme-activity-graph)
+-->
 
 </div>
 
